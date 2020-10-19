@@ -9,7 +9,7 @@
     :target: https://codecov.io/gh/luttik/pytest-locker
 
 
-.. image:: ./example.svg
+.. image:: ./example.png
     :alt: example image
     :width: 50%
 
